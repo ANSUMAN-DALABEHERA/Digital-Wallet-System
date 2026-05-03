@@ -1,5 +1,4 @@
 # Digital-Wallet-System
-# Simple Digital Wallet System
 
 print("💳 Welcome to Digital Wallet")
 
